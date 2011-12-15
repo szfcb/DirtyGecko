@@ -1,0 +1,10 @@
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\bin\x86\Release_Windows\Skybound.Gecko.dll
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\ResolveAssemblyReference.cache
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.ChromeDialog.resources
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.ConfirmDialog.resources
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.PasswordDialog.resources
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.PromptDialog.resources
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.PropertiesDialog.resources
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\ResGen.read.1.tlog
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\ResGen.write.1.tlog
+C:\Users\Administrator\workspace\geckofx-8.0\Skybound.Gecko\obj\x86\Release_Windows\Skybound.Gecko.dll

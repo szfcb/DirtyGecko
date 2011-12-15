@@ -1,0 +1,7 @@
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\obj\x86\Debug_Windows\ResolveAssemblyReference.cache
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\bin\x86\Debug_Windows\GeckoFxTest.exe
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\bin\x86\Debug_Windows\GeckoFxTest.pdb
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\bin\x86\Debug_Windows\Skybound.Gecko.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\bin\x86\Debug_Windows\Skybound.Gecko.pdb
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\obj\x86\Debug_Windows\GeckoFxTest.exe
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\obj\x86\Debug_Windows\GeckoFxTest.pdb

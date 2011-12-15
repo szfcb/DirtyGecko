@@ -1,0 +1,1 @@
+C:\Users\Administrator\workspace\geckofx-8.0\GeckoFxTest\obj\x86\Debug_Linux\ResolveAssemblyReference.cache

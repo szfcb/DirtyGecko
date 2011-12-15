@@ -1,0 +1,12 @@
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\GeckofxUnitTests.exe
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\GeckofxUnitTests.pdb
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\nunit-console-runner.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\Skybound.Gecko.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\nunit.util.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\nunit.core.dll
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\bin\Debug\Skybound.Gecko.pdb
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\obj\x86\Debug\GeckofxUnitTests.exe
+C:\Users\Administrator\workspace\geckofx-8.0\GeckofxUnitTests\obj\x86\Debug\GeckofxUnitTests.pdb
