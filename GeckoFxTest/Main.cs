@@ -182,6 +182,7 @@ namespace GeckoFxTest
 			closeTab.Click += delegate {
 				m_tabControl.Controls.Remove(tabPage);
 				browser.Dispose();
+				//test
 			};
 
 			tabPage.Controls.Add(urlbox);
